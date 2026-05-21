@@ -7,11 +7,10 @@ Free digital marketing agency HTML website template built with Bootstrap 5.
 https://csscodexdotcom.github.io/digency/
 
 ## Author
-CSS Codex
-https://csscodex.com
+CSS Codex https://csscodex.com
 
 ## Download
-https://github.com/csscodexdotcom/digency/archive/refs/heads/main.zip
+https://github.com/csscodexdotcom/digency/releases/download/v1.0/Digency.zip
 
 ## Features
 - Bootstrap 5
@@ -20,4 +19,4 @@ https://github.com/csscodexdotcom/digency/archive/refs/heads/main.zip
 - SEO Friendly
 
 ## License
-Creative Commons Attribution 4.0 International License.
+Creative Commons Attribution 4.0 International License. The author’s attribution link must remain intact.

@@ -1,4 +1,4 @@
-![Preview](screenshot.jpg)
+[![Template Preview](screenshot.jpg)](https://csscodexdotcom.github.io/digency/)
 
 # Digency
 Free digital marketing agency HTML website template built with Bootstrap 5.

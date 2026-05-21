@@ -1,5 +1,21 @@
-=>  Template Name    : Digency
-=>  Template Author  : CSS Codex
-=>  Author Website   : https://csscodex.com
-=>  Template License : Creative Commons Attribution 4.0 International License
-=>  License Link     : https://creativecommons.org/licenses/by/4.0
+# Digency
+Free digital marketing agency HTML website template built with Bootstrap 5.
+
+## Live Demo
+https://csscodexdotcom.github.io/digency/
+
+## Author
+CSS Codex
+https://csscodex.com
+
+## Download
+https://github.com/csscodexdotcom/digency/archive/refs/heads/main.zip
+
+## Features
+- Bootstrap 5
+- Responsive Layout
+- Modern Design
+- SEO Friendly
+
+## License
+Creative Commons Attribution 4.0 International License.

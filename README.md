@@ -1,3 +1,5 @@
+![Preview](screenshot.jpg)
+
 # Digency
 Free digital marketing agency HTML website template built with Bootstrap 5.
 
